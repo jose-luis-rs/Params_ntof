@@ -1,0 +1,6 @@
+*.root
+*core*
+*.o
+*allParams_*
+*all_*
+*.vscode
