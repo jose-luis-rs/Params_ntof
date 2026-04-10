@@ -1,0 +1,19 @@
+-------------------------------------------------------------------
+
+     =========================================================
+     Input files
+     =========================================================
+
+                      Category History file
+                      ---------------------
+This file should be used by R3BRoot developers and category coordinators
+to briefly summarize all major modifications introduced in the files and
+keep track of all category-tags.
+
+     ----------------------------------------------------------
+     * Reverse chronological order (last date on top), please *
+     ----------------------------------------------------------
+
+
+April 10, 2026 J.L. Rodriguez
+- Created default folder.
